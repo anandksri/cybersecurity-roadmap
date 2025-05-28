@@ -52,7 +52,7 @@ A beginner-friendly roadmap to start your journey into the world of cybersecurit
 
 ## 🚀 Phase 5: Portfolio & Career
 
-- Create a GitHub portfolio and personal blog (e.g., [The Cyber Pioneer](https://tcpioneer.com))
+- Create a GitHub portfolio and personal blog (e.g., [The Cyber Pioneer](https://tcpioneer.org))
 - Engage in the community:
   - Reddit: r/cybersecurity
   - LinkedIn
